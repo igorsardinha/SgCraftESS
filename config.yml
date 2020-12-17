@@ -1,0 +1,9 @@
+Mensagens:
+  Erro: '&cDesculpe, porém este item não pode ser desencantado!'
+  Desencantado: '&aItem desencantado com sucesso!'
+MySQL:
+  Ativado: true
+  Usuario: root
+  Host: localhost
+  Database: sgcraft
+  Senha: 1234

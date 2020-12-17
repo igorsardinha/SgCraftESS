@@ -1,0 +1,19 @@
+name: SgCraftEss
+author: Sardinhagamer_HD
+version: 11
+main: br.com.sgcraft.Main
+
+commands:
+  desencantar:
+  anunciar:
+  perfil:
+  x9:
+  buff:
+  vender:
+  fdp:
+  discord:
+  site:
+  givemoeda:
+  moeda:
+  spawners:
+    aliases: [geradores, gerador]
